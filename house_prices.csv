@@ -1,0 +1,501 @@
+location,sqft,rooms,price_lakhs
+Madhapur,1824,4,98.7
+Secunderabad,1528,1,63.3
+Dilsukhnagar,2636,2,92.0
+Kukatpally,1524,2,70.5
+Banjara Hills,2181,4,116.3
+Banjara Hills,989,3,73.5
+Banjara Hills,2217,2,115.9
+Secunderabad,855,3,59.9
+Kukatpally,1308,4,71.0
+Dilsukhnagar,2438,4,89.9
+Banjara Hills,2544,1,116.8
+Secunderabad,609,2,50.5
+Dilsukhnagar,1397,3,69.5
+Madhapur,1476,1,71.2
+Banjara Hills,1628,2,94.6
+Banjara Hills,1615,1,92.9
+Madhapur,2424,4,108.7
+Kukatpally,973,2,54.3
+Madhapur,2793,1,109.5
+Madhapur,823,1,62.9
+Kukatpally,1862,3,72.0
+Banjara Hills,2824,1,125.9
+Madhapur,2402,2,101.6
+Madhapur,1452,2,80.9
+Kukatpally,662,3,52.9
+Dilsukhnagar,1840,2,69.4
+Banjara Hills,1288,4,89.5
+Kukatpally,2084,2,73.9
+Kukatpally,2233,2,91.5
+Banjara Hills,2752,1,124.7
+Kukatpally,1110,1,48.7
+Banjara Hills,984,2,75.6
+Banjara Hills,1004,3,74.5
+Secunderabad,1117,1,59.5
+Secunderabad,1075,3,67.6
+Dilsukhnagar,2600,2,95.9
+Madhapur,2268,2,106.3
+Banjara Hills,2493,4,126.9
+Dilsukhnagar,2060,1,73.9
+Madhapur,1313,2,71.1
+Banjara Hills,682,4,74.5
+Kukatpally,1768,1,76.9
+Banjara Hills,2501,2,109.4
+Secunderabad,2648,2,109.5
+Madhapur,650,1,62.2
+Dilsukhnagar,1284,1,54.6
+Madhapur,1316,1,70.8
+Kukatpally,2069,2,80.4
+Kukatpally,1048,2,58.6
+Banjara Hills,1480,4,93.9
+Secunderabad,1087,3,69.4
+Dilsukhnagar,2423,1,82.4
+Secunderabad,2681,2,104.6
+Secunderabad,2742,2,103.4
+Kukatpally,2174,1,85.2
+Secunderabad,2801,3,106.4
+Banjara Hills,849,1,75.3
+Banjara Hills,1273,3,90.9
+Banjara Hills,1037,2,81.2
+Madhapur,2765,3,118.7
+Madhapur,1370,4,78.5
+Madhapur,867,2,67.3
+Dilsukhnagar,2584,4,101.8
+Madhapur,1677,1,85.9
+Madhapur,835,1,57.2
+Kukatpally,988,1,54.0
+Banjara Hills,1362,3,91.4
+Dilsukhnagar,2448,2,83.4
+Banjara Hills,1223,1,74.3
+Secunderabad,1852,1,77.2
+Dilsukhnagar,1177,2,51.7
+Banjara Hills,2722,1,118.5
+Banjara Hills,1034,4,75.9
+Dilsukhnagar,2750,2,97.6
+Dilsukhnagar,1363,2,56.9
+Dilsukhnagar,1929,2,79.2
+Dilsukhnagar,2745,4,98.2
+Banjara Hills,1958,2,101.8
+Madhapur,1046,4,74.3
+Banjara Hills,2617,2,115.0
+Secunderabad,1931,3,98.1
+Kukatpally,848,1,48.2
+Madhapur,765,3,70.7
+Banjara Hills,1958,1,94.0
+Madhapur,1619,4,91.3
+Madhapur,1141,3,77.4
+Dilsukhnagar,1358,2,59.8
+Kukatpally,2728,1,94.8
+Secunderabad,2780,1,100.7
+Kukatpally,1396,3,67.4
+Banjara Hills,737,4,88.4
+Dilsukhnagar,2831,3,99.2
+Dilsukhnagar,1953,4,82.4
+Kukatpally,2475,4,107.8
+Dilsukhnagar,668,1,35.8
+Kukatpally,2700,3,102.2
+Kukatpally,2073,3,85.0
+Madhapur,804,4,68.7
+Banjara Hills,2773,3,123.9
+Banjara Hills,642,2,65.4
+Banjara Hills,2506,2,116.6
+Kukatpally,2758,3,98.1
+Madhapur,1360,3,85.4
+Kukatpally,2742,4,108.7
+Secunderabad,2594,2,97.4
+Madhapur,2535,2,105.2
+Madhapur,1499,1,80.4
+Dilsukhnagar,959,4,51.0
+Madhapur,2319,1,108.5
+Banjara Hills,880,2,76.8
+Madhapur,2487,4,113.1
+Banjara Hills,1266,3,90.6
+Secunderabad,692,4,54.4
+Dilsukhnagar,1271,3,65.7
+Kukatpally,2569,3,99.3
+Secunderabad,660,4,61.3
+Dilsukhnagar,1628,3,68.2
+Banjara Hills,2089,1,109.3
+Secunderabad,1203,2,67.1
+Kukatpally,1281,3,77.4
+Dilsukhnagar,2028,1,72.4
+Secunderabad,2880,3,110.5
+Madhapur,1123,2,66.9
+Banjara Hills,2993,1,122.7
+Madhapur,2568,2,111.3
+Madhapur,1701,2,92.2
+Dilsukhnagar,2353,1,97.2
+Secunderabad,2436,1,92.9
+Banjara Hills,2896,1,118.2
+Kukatpally,2694,4,108.1
+Madhapur,1744,1,79.5
+Madhapur,2861,1,115.8
+Banjara Hills,2886,1,120.1
+Madhapur,1679,1,84.5
+Secunderabad,2997,3,117.9
+Madhapur,706,4,66.1
+Kukatpally,647,2,52.8
+Dilsukhnagar,936,1,51.3
+Madhapur,1649,3,78.4
+Secunderabad,1880,3,80.0
+Secunderabad,2655,3,96.1
+Madhapur,1224,2,84.6
+Kukatpally,2490,1,91.2
+Madhapur,1876,4,104.8
+Madhapur,2315,4,98.7
+Banjara Hills,902,3,75.2
+Kukatpally,1238,2,67.0
+Kukatpally,655,2,49.3
+Banjara Hills,1325,2,88.8
+Madhapur,1125,4,70.9
+Secunderabad,1073,3,71.2
+Madhapur,627,1,61.1
+Banjara Hills,2725,4,128.1
+Kukatpally,964,3,55.2
+Secunderabad,1125,3,67.2
+Madhapur,1935,1,88.4
+Dilsukhnagar,1482,1,52.3
+Dilsukhnagar,1630,1,64.0
+Madhapur,1626,2,83.9
+Dilsukhnagar,2246,1,85.0
+Madhapur,1518,3,73.3
+Kukatpally,2374,1,90.0
+Kukatpally,2131,3,82.0
+Kukatpally,2506,4,101.2
+Banjara Hills,1815,2,100.2
+Dilsukhnagar,2254,4,86.9
+Madhapur,1084,4,80.1
+Banjara Hills,2675,3,116.1
+Banjara Hills,1313,4,96.4
+Kukatpally,1662,3,72.5
+Dilsukhnagar,2576,1,80.1
+Banjara Hills,1896,1,96.5
+Kukatpally,1854,3,70.4
+Madhapur,2733,1,111.1
+Kukatpally,725,2,48.8
+Banjara Hills,1136,4,92.6
+Dilsukhnagar,2792,2,99.0
+Madhapur,2672,4,108.8
+Secunderabad,2203,1,83.4
+Banjara Hills,666,2,72.3
+Madhapur,832,1,66.5
+Banjara Hills,2756,4,133.0
+Secunderabad,1769,3,87.8
+Secunderabad,2758,3,106.0
+Madhapur,2875,2,117.7
+Dilsukhnagar,710,1,47.7
+Dilsukhnagar,2093,1,74.3
+Kukatpally,2681,2,100.9
+Kukatpally,1222,3,63.4
+Madhapur,2141,4,99.8
+Banjara Hills,1905,2,100.9
+Secunderabad,2361,4,95.6
+Secunderabad,2575,3,101.2
+Kukatpally,2962,1,98.4
+Madhapur,1476,3,82.5
+Madhapur,2589,2,111.0
+Dilsukhnagar,1912,1,68.4
+Secunderabad,2060,2,86.5
+Secunderabad,2924,2,108.8
+Dilsukhnagar,2333,3,89.1
+Kukatpally,2205,2,86.5
+Banjara Hills,2126,3,114.1
+Banjara Hills,2997,1,114.9
+Secunderabad,2230,3,107.9
+Kukatpally,1760,1,69.1
+Banjara Hills,1358,3,91.5
+Banjara Hills,842,4,74.4
+Dilsukhnagar,1663,4,75.8
+Banjara Hills,828,2,75.1
+Banjara Hills,1519,3,90.2
+Kukatpally,1846,3,86.0
+Dilsukhnagar,605,1,37.8
+Dilsukhnagar,1067,2,55.4
+Madhapur,2355,3,100.8
+Dilsukhnagar,674,2,42.7
+Madhapur,603,4,74.1
+Madhapur,2470,3,113.1
+Dilsukhnagar,1245,3,61.2
+Kukatpally,717,2,47.7
+Dilsukhnagar,2229,3,84.6
+Dilsukhnagar,2621,2,92.5
+Kukatpally,1546,3,75.4
+Banjara Hills,2064,1,96.7
+Madhapur,793,2,67.2
+Madhapur,1446,3,77.2
+Madhapur,2015,4,107.5
+Secunderabad,2058,3,85.1
+Madhapur,2820,4,121.0
+Secunderabad,2268,4,101.7
+Kukatpally,2973,1,102.6
+Dilsukhnagar,2033,2,78.5
+Kukatpally,1741,3,85.2
+Kukatpally,2410,1,92.6
+Kukatpally,1323,3,69.4
+Banjara Hills,824,4,70.2
+Dilsukhnagar,1131,2,49.6
+Madhapur,712,3,69.5
+Banjara Hills,2787,3,128.0
+Kukatpally,1158,4,69.6
+Banjara Hills,2648,3,124.9
+Secunderabad,2737,3,112.4
+Secunderabad,1253,4,70.0
+Secunderabad,919,1,56.1
+Madhapur,2173,4,98.2
+Banjara Hills,2428,1,104.8
+Secunderabad,2517,2,89.7
+Madhapur,738,1,55.5
+Secunderabad,2626,1,105.9
+Secunderabad,2906,2,99.9
+Secunderabad,1501,1,68.5
+Madhapur,1289,4,74.8
+Madhapur,2639,1,104.5
+Secunderabad,609,2,51.1
+Madhapur,860,4,67.0
+Banjara Hills,2542,2,122.0
+Kukatpally,2273,2,96.5
+Secunderabad,2819,3,96.7
+Dilsukhnagar,2660,3,91.6
+Kukatpally,1791,2,77.1
+Banjara Hills,2219,2,114.1
+Kukatpally,920,2,52.7
+Secunderabad,1942,3,86.0
+Banjara Hills,2236,3,105.6
+Kukatpally,2976,1,96.2
+Secunderabad,2594,1,104.6
+Dilsukhnagar,2543,2,80.5
+Dilsukhnagar,2638,4,108.6
+Dilsukhnagar,1718,4,77.6
+Madhapur,2204,3,105.0
+Madhapur,2965,3,123.5
+Dilsukhnagar,835,3,48.1
+Dilsukhnagar,2569,2,92.2
+Secunderabad,933,4,62.4
+Secunderabad,2508,1,98.0
+Kukatpally,975,2,56.2
+Kukatpally,1760,1,68.7
+Dilsukhnagar,2170,1,73.4
+Kukatpally,1919,2,75.1
+Dilsukhnagar,2455,1,89.7
+Dilsukhnagar,1972,4,77.2
+Secunderabad,1472,1,59.7
+Madhapur,1852,4,97.3
+Madhapur,2917,4,129.5
+Banjara Hills,2451,4,123.1
+Kukatpally,1914,3,79.3
+Banjara Hills,1324,1,75.7
+Kukatpally,2652,2,97.6
+Kukatpally,677,2,48.1
+Madhapur,731,1,54.9
+Kukatpally,1200,3,67.3
+Banjara Hills,2372,3,124.0
+Banjara Hills,1665,4,100.7
+Dilsukhnagar,2736,1,92.7
+Madhapur,2943,1,110.4
+Banjara Hills,2463,2,121.6
+Kukatpally,1918,1,77.1
+Dilsukhnagar,1215,3,56.0
+Madhapur,2488,1,104.0
+Kukatpally,1646,2,75.5
+Banjara Hills,1174,4,88.0
+Banjara Hills,2790,2,128.8
+Kukatpally,1592,2,73.7
+Kukatpally,2792,4,105.4
+Kukatpally,1848,2,80.2
+Dilsukhnagar,1102,2,56.0
+Secunderabad,2597,1,90.9
+Kukatpally,1420,1,70.7
+Madhapur,2751,4,116.3
+Dilsukhnagar,2570,1,86.4
+Madhapur,797,1,65.2
+Madhapur,2269,2,104.5
+Banjara Hills,1802,3,97.0
+Banjara Hills,2071,1,106.3
+Secunderabad,2246,3,90.8
+Dilsukhnagar,2292,1,89.9
+Dilsukhnagar,1912,1,67.2
+Madhapur,2635,4,116.1
+Banjara Hills,1077,4,81.0
+Banjara Hills,1854,4,115.5
+Madhapur,1522,3,78.4
+Kukatpally,1019,2,60.1
+Dilsukhnagar,2804,1,89.9
+Dilsukhnagar,1720,1,64.7
+Madhapur,1550,1,82.5
+Secunderabad,2936,3,117.0
+Dilsukhnagar,1877,4,86.0
+Kukatpally,2843,2,95.4
+Kukatpally,2457,3,97.3
+Madhapur,1116,4,84.2
+Madhapur,2258,3,94.5
+Madhapur,2465,2,107.2
+Dilsukhnagar,1741,4,74.5
+Banjara Hills,2532,3,120.9
+Banjara Hills,1414,2,84.5
+Banjara Hills,2875,1,115.2
+Banjara Hills,2500,2,105.9
+Secunderabad,2863,1,109.0
+Dilsukhnagar,2662,3,100.6
+Kukatpally,2694,4,105.9
+Banjara Hills,2971,4,129.6
+Kukatpally,729,3,44.6
+Kukatpally,694,4,57.2
+Banjara Hills,2555,4,116.4
+Madhapur,1393,1,72.8
+Madhapur,2434,3,104.4
+Kukatpally,2716,2,98.9
+Kukatpally,2283,1,82.8
+Banjara Hills,610,3,70.9
+Madhapur,2465,1,100.0
+Kukatpally,1311,2,68.3
+Kukatpally,2670,2,103.9
+Secunderabad,1414,3,73.4
+Dilsukhnagar,945,2,51.9
+Banjara Hills,2949,1,134.8
+Banjara Hills,962,2,71.2
+Kukatpally,2865,1,95.0
+Banjara Hills,2788,1,123.7
+Kukatpally,1584,2,81.3
+Secunderabad,2239,3,92.2
+Kukatpally,1427,4,81.3
+Madhapur,955,2,68.4
+Kukatpally,1947,1,74.8
+Kukatpally,2463,1,86.1
+Kukatpally,726,2,53.3
+Secunderabad,1203,3,63.0
+Madhapur,2528,3,110.1
+Secunderabad,1613,1,80.7
+Secunderabad,650,1,47.2
+Banjara Hills,2030,3,112.8
+Banjara Hills,2392,4,111.7
+Banjara Hills,2236,2,106.2
+Banjara Hills,2245,1,99.6
+Banjara Hills,1805,1,96.0
+Dilsukhnagar,2454,3,93.8
+Banjara Hills,1166,2,82.5
+Madhapur,1535,3,91.0
+Dilsukhnagar,2534,2,85.6
+Banjara Hills,1932,2,102.4
+Dilsukhnagar,801,2,43.4
+Madhapur,2960,1,117.3
+Banjara Hills,716,4,78.4
+Dilsukhnagar,1536,3,69.8
+Kukatpally,1174,4,61.0
+Secunderabad,2891,3,105.3
+Dilsukhnagar,1136,2,50.9
+Dilsukhnagar,2225,1,77.9
+Madhapur,2722,4,117.5
+Banjara Hills,985,1,78.7
+Dilsukhnagar,1074,3,51.1
+Dilsukhnagar,1017,1,40.9
+Secunderabad,2994,1,118.1
+Madhapur,1538,4,81.8
+Madhapur,1554,2,87.0
+Dilsukhnagar,1475,1,60.5
+Madhapur,1362,2,79.3
+Secunderabad,1802,3,82.5
+Secunderabad,1805,1,75.7
+Madhapur,1263,4,82.9
+Dilsukhnagar,624,3,41.9
+Dilsukhnagar,2590,3,99.1
+Banjara Hills,1803,4,105.9
+Secunderabad,1309,1,68.2
+Kukatpally,2479,1,88.9
+Dilsukhnagar,1784,3,71.9
+Madhapur,2824,1,106.2
+Secunderabad,884,2,55.3
+Madhapur,662,4,60.4
+Banjara Hills,1602,2,99.6
+Secunderabad,1261,1,64.3
+Banjara Hills,2803,3,126.4
+Madhapur,2092,4,100.2
+Secunderabad,1566,1,72.6
+Secunderabad,1448,1,81.0
+Kukatpally,1707,3,75.7
+Kukatpally,1288,3,63.4
+Madhapur,747,2,65.3
+Madhapur,941,4,59.9
+Madhapur,1686,4,91.5
+Dilsukhnagar,2324,3,84.7
+Dilsukhnagar,1983,2,70.6
+Dilsukhnagar,926,4,56.7
+Dilsukhnagar,2392,3,88.6
+Banjara Hills,2359,1,100.5
+Kukatpally,1589,4,73.5
+Banjara Hills,2862,2,110.1
+Kukatpally,1551,2,72.2
+Madhapur,1322,2,78.5
+Secunderabad,2679,1,95.5
+Madhapur,2932,4,125.0
+Banjara Hills,1028,4,77.3
+Banjara Hills,2100,1,98.2
+Dilsukhnagar,885,4,55.2
+Kukatpally,2665,1,92.7
+Banjara Hills,1368,1,84.4
+Banjara Hills,1994,1,97.5
+Dilsukhnagar,793,2,43.8
+Banjara Hills,1587,4,95.8
+Dilsukhnagar,1736,1,63.4
+Dilsukhnagar,2761,4,101.5
+Banjara Hills,2301,2,107.4
+Banjara Hills,1546,1,89.2
+Secunderabad,1430,3,69.6
+Madhapur,2520,2,99.3
+Madhapur,654,3,67.4
+Dilsukhnagar,1399,4,68.5
+Secunderabad,1377,4,85.9
+Secunderabad,2081,2,81.8
+Dilsukhnagar,2501,4,92.5
+Madhapur,2809,3,116.1
+Banjara Hills,2734,1,123.8
+Dilsukhnagar,654,1,37.3
+Kukatpally,2423,1,84.2
+Madhapur,1801,2,95.1
+Secunderabad,1432,4,74.2
+Banjara Hills,912,3,82.7
+Kukatpally,2458,4,102.3
+Banjara Hills,2607,4,123.0
+Kukatpally,2606,4,101.3
+Banjara Hills,2390,1,108.3
+Banjara Hills,927,3,78.6
+Banjara Hills,1887,3,107.0
+Kukatpally,2743,4,101.6
+Dilsukhnagar,1711,1,66.8
+Kukatpally,1911,1,71.7
+Secunderabad,1051,3,58.8
+Madhapur,2123,1,94.4
+Madhapur,764,1,50.8
+Secunderabad,781,1,62.3
+Madhapur,1509,2,75.8
+Secunderabad,1422,4,75.3
+Banjara Hills,1543,3,99.9
+Secunderabad,2601,3,98.2
+Banjara Hills,2654,2,107.8
+Secunderabad,929,4,61.0
+Kukatpally,1374,3,64.5
+Secunderabad,2798,1,91.1
+Banjara Hills,746,3,75.6
+Kukatpally,1514,1,68.4
+Secunderabad,2171,2,95.0
+Kukatpally,1908,1,71.6
+Kukatpally,681,3,43.5
+Dilsukhnagar,1113,3,54.3
+Kukatpally,2520,3,97.1
+Kukatpally,2539,2,100.1
+Kukatpally,1345,2,72.7
+Secunderabad,2009,4,96.3
+Banjara Hills,1306,3,89.5
+Madhapur,1070,1,72.2
+Secunderabad,995,2,56.7
+Secunderabad,2155,3,92.2
+Kukatpally,2908,3,101.2
+Kukatpally,1404,2,67.4
+Madhapur,1533,4,87.8
+Banjara Hills,1879,2,108.6
+Kukatpally,2357,2,89.8
+Madhapur,1504,1,79.6
+Kukatpally,1676,1,72.6
+Banjara Hills,2490,4,118.0
+Secunderabad,2123,3,86.6
+Secunderabad,1987,2,91.2
